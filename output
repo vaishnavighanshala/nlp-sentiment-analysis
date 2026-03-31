@@ -1,0 +1,23 @@
+SHAKESPEARE SENTIMENT ANALYSIS
+
+1. But soft, what light through yonder window breaks, it is the east and Juliet is the sun.
+   Sentiment: POSITIVE
+
+2. Good night, good night! Parting is such sweet sorrow.
+   Sentiment: POSITIVE
+
+3. Something wicked this way comes.
+   Sentiment: NEGATIVE
+
+4. Out, out brief candle! Life is but a walking shadow.
+   Sentiment: NEUTRAL
+
+5. Is this a dagger which I see before me? I am afraid and full of doubt.
+   Sentiment: NEGATIVE
+
+OVERALL RESULT:
+Positive: 2
+Negative: 2
+Neutral : 1
+Overall Sentiment of the text: NEUTRAL
+
